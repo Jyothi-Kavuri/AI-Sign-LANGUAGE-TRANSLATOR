@@ -1,2 +1,70 @@
 # AI-Sign-LANGUAGE-TRANSLATOR
-AI Sign Language Translator using Python, OpenCV and Media Pipe to detect and translate hand gestures into text and voice as the output.
+🤟 AI Sign Language Translator
+
+An AI-based Sign Language Translator built using Python, OpenCV, and MediaPipe.
+This project detects hand gestures in real-time and converts them into text and speech output.
+
+---
+
+🚀 Features
+
+- Real-time hand gesture detection
+- Converts sign language to text
+- Optional voice output
+- Uses computer vision for accuracy
+
+---
+
+🛠️ Technologies Used
+
+- Python
+- OpenCV
+- MediaPipe
+
+---
+
+📂 Project Structure
+
+├── gestures.py      # Main program
+├── README.md        # Project documentation
+
+---
+
+▶️ How to Run
+
+1. Install dependencies
+
+pip install opencv-python mediapipe pyttsx3
+
+2. Run the project
+
+python gestures.py
+
+---
+
+📸 Output
+
+- Detects hand gestures via webcam
+- Displays corresponding text
+- Converts text to speech
+
+---
+
+📌 Future Improvements
+
+- Add more gesture recognition
+- Improve accuracy using ML models
+- Create a GUI interface
+- Support multiple languages
+
+---
+
+🤝 Contributing
+
+Feel free to fork this repository and improve the project!
+
+---
+
+📜 License
+
+This project is open-source and available under the MIT License.
