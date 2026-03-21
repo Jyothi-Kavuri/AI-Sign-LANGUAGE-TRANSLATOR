@@ -1,3 +1,4 @@
+<img width="1894" height="934" alt="Screenshot 2026-03-21 183503" src="https://github.com/user-attachments/assets/c47e077c-8a19-47f9-bb64-7ce11b7e2add" />
 # AI-Sign-LANGUAGE-TRANSLATOR
 🤟 AI Sign Language Translator
 
